@@ -1,0 +1,129 @@
+{
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "notiGroup": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "ndhOnly": false,
+    "adminOnly": false,
+    "autoSend": true,
+    "NOTIFICATION": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminPaseOnly": false,
+    "encryptSt": false,
+    "DASHBOARD": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": " 𝑴𝒂𝒓𝒊𝒔 🍓",
+    "AMDIN_NAME": "ntuan",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/TuanKaiDu1m2?mibextid=LQQJ4d",
+    "PREFIX": "!",
+    "NDH": [
+        "100042972203184",
+        ""
+    ],
+    "ADMINBOT": [
+        "100042972203184",
+        "100090562700474",
+        "61552157895988",
+        "",
+        "",
+        "",
+        "",
+        "100060410386561"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": ""
+    },
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        },
+        "sendAttachments": {
+            "status": true,
+            "random": true,
+            "url": "https://i.imgur.com/LKkw8SL.jpg"
+        },
+        "delayUnsend": 60
+    },
+    "log": {
+        "enable": true
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "cave": {
+        "cooldownTime": 100000
+    },
+    "nhanluot": {
+        "cooldownTime": 21600000,
+        "rewardCoin": 10000
+    },
+    "ảnh": {
+        "cooldownTime": 1200000
+    },
+    "version": "1.2.15",
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "daily": {
+        "cooldownTime": 43200000
+    },
+    "tt": {
+        "maxColumn": 10
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyCXtsOpIMInU5TOWkz0b2xjqwbx0aLUKJw",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "work": {
+        "cooldownTime": 600000
+    },
+    "n": {
+        "spamDelay": 2
+    },
+    "lamviec": {
+        "cooldownTime": ""
+    },
+    "spamcmt": {
+        "spamDelay": 1.5
+    }
+}

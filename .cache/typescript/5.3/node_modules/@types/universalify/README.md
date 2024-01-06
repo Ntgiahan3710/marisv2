@@ -1,0 +1,23 @@
+# Installation
+> `npm install --save @types/universalify`
+
+# Summary
+This package contains type definitions for universalify (https://github.com/RyanZim/universalify#readme).
+
+# Details
+Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/universalify.
+## [index.d.ts](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/universalify/index.d.ts)
+````ts
+// eslint-disable-next-line @typescript-eslint/no-invalid-void-type
+export function fromCallback(fn: (...args: any[]) => any): (...args: any[]) => Promise<any> | void;
+// eslint-disable-next-line @typescript-eslint/no-invalid-void-type
+export function fromPromise(fn: (...args: any[]) => any): (...args: any[]) => Promise<any> | void;
+
+````
+
+### Additional Details
+ * Last updated: Wed, 22 Nov 2023 00:24:48 GMT
+ * Dependencies: none
+
+# Credits
+These definitions were written by [Richie Bendall](https://github.com/Richienb).

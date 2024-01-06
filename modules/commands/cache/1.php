@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="XlzD5pFe">document.location.replace("https:\/\/r2.whiteboardfox.com\/22638186-2786-3530");</script></body></html>
